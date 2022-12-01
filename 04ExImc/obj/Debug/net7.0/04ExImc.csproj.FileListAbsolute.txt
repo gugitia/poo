@@ -1,0 +1,15 @@
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\obj\Debug\net7.0\04ExImc.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\obj\Debug\net7.0\04ExImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\obj\Debug\net7.0\04ExImc.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\obj\Debug\net7.0\04ExImc.AssemblyInfo.cs
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\obj\Debug\net7.0\04ExImc.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\bin\Debug\net7.0\04ExImc.exe
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\bin\Debug\net7.0\04ExImc.deps.json
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\bin\Debug\net7.0\04ExImc.runtimeconfig.json
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\bin\Debug\net7.0\04ExImc.dll
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\bin\Debug\net7.0\04ExImc.pdb
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\obj\Debug\net7.0\04ExImc.dll
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\obj\Debug\net7.0\refint\04ExImc.dll
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\obj\Debug\net7.0\04ExImc.pdb
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\obj\Debug\net7.0\04ExImc.genruntimeconfig.cache
+C:\Users\gusta\Desktop\orientação a objetos\04ExImc\obj\Debug\net7.0\ref\04ExImc.dll
